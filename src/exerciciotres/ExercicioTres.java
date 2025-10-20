@@ -18,5 +18,6 @@ public class ExercicioTres {
            }
             System.out.print(vetorPalavras[i]);
         }
+        sc.close();
     }
 }
